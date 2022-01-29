@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 import './Home.css';
 
 function Home(props) {
@@ -32,7 +33,7 @@ function Home(props) {
                 
                         <li className="sidebar-item ">
                             <a href="form-layout.html" className='sidebar-link'>
-                                <span>Form Layout</span>
+                                <span>Item 1</span>
                             </a>
                         </li>
                     </ul>

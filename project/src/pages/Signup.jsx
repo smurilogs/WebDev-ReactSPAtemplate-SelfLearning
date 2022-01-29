@@ -86,7 +86,7 @@ function Signup(props) {
     <div className="Signup">
 		<div className="container">
 			<div className="row vh-100">
-				<div className="col-lg-6 mx-auto d-table h-100">
+				<div className="col-lg-5 mx-auto d-table h-100">
 					<div className="d-table-cell align-middle">
 						<div className="card shadow ">
 							<div className="card-body">
